@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 import axios from './axios'
 import './Row.css'
 const Row = ({title, fetchURL, isLargeRow=false}) => {
@@ -17,7 +18,7 @@ const Row = ({title, fetchURL, isLargeRow=false}) => {
       <h2 className='row_title'>{title}</h2>
         <div className='row_posters'>
             {movies.map(movie=>(
-                <img 
+                <LazyLoadImage 
                     className={`row_poster ${isLargeRow && "row_posterlarge"}`}
                     key={movie.id}
                     src={`${baseURL}${
