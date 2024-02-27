@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/VinayBhupelli/movie-trailers/static/css/main.eda68923.css",
-    "main.js": "/VinayBhupelli/movie-trailers/static/js/main.32ae2b8d.js",
-    "static/js/453.f682d1e9.chunk.js": "/VinayBhupelli/movie-trailers/static/js/453.f682d1e9.chunk.js",
-    "static/media/Avatar.png": "/VinayBhupelli/movie-trailers/static/media/Avatar.f6931478cf3be3067701.png",
-    "static/media/netflix_PNG12.png": "/VinayBhupelli/movie-trailers/static/media/netflix_PNG12.5e9e7530251992ce7604.png",
-    "index.html": "/VinayBhupelli/movie-trailers/index.html",
-    "main.eda68923.css.map": "/VinayBhupelli/movie-trailers/static/css/main.eda68923.css.map",
-    "main.32ae2b8d.js.map": "/VinayBhupelli/movie-trailers/static/js/main.32ae2b8d.js.map",
-    "453.f682d1e9.chunk.js.map": "/VinayBhupelli/movie-trailers/static/js/453.f682d1e9.chunk.js.map"
+    "main.css": "/movie-trailers/static/css/main.eda68923.css",
+    "main.js": "/movie-trailers/static/js/main.55e4f8b3.js",
+    "static/js/453.f682d1e9.chunk.js": "/movie-trailers/static/js/453.f682d1e9.chunk.js",
+    "static/media/Avatar.png": "/movie-trailers/static/media/Avatar.f6931478cf3be3067701.png",
+    "static/media/netflix_PNG12.png": "/movie-trailers/static/media/netflix_PNG12.5e9e7530251992ce7604.png",
+    "index.html": "/movie-trailers/index.html",
+    "main.eda68923.css.map": "/movie-trailers/static/css/main.eda68923.css.map",
+    "main.55e4f8b3.js.map": "/movie-trailers/static/js/main.55e4f8b3.js.map",
+    "453.f682d1e9.chunk.js.map": "/movie-trailers/static/js/453.f682d1e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eda68923.css",
-    "static/js/main.32ae2b8d.js"
+    "static/js/main.55e4f8b3.js"
   ]
 }
