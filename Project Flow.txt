@@ -1,0 +1,21 @@
+npx create-react-app movie-trailers --template redux
+create Firebase APP
+
+delete:
+app.test.js
+logo.svg
+setuptests.js
+
+TMDB
+
+Add
+javascript javascriptreact
+to get emmets
+
+images need to import img tag src working 
+with importing or by providing the link
+
+Background color need to have height and width 
+inorder it to display
+
+f81980ff410e46f422d64ddf3a56dddd
