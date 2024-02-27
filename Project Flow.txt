@@ -20,4 +20,9 @@ inorder it to display
 
 f81980ff410e46f422d64ddf3a56dddd
 
+git add .
+git status
+git commit -m "Changes Made"
 git push -u origin master
+
+npm install gh-pages --save-dev
