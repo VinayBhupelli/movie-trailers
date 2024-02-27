@@ -13,6 +13,25 @@ const Row = ({title, fetchURL, isLargeRow=false}) => {
         }
         fetchData();
     },[fetchURL])
+
+    useEffect(() => {
+      async function func(movie){
+        try{
+          const res = await axios.get(`${baseURL}${movie.backdrop_path}`)
+          return
+        }
+        catch(e){
+          console.log("Error")
+        }
+      }
+      const x = async () => {
+        for(const obj of movies){
+            await func(obj)
+        }
+      }
+      x()
+    }, [movies])
+
   return (
     <div className='row'>
       <h2 className='row_title'>{title}</h2>
